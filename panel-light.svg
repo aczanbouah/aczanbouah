@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img" aria-label="stack: nuxt, vue, typescript, tailwind, nestjs, postgres, docker. now: building mote, a local-first music visualizer.">
+<rect width="720" height="240" fill="#ececea"/>
+<text x="16" y="29" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#101010" font-weight="500">profile</text>
+<rect y="48" width="720" height="1" fill="#cfcfcb"/>
+<text x="16" y="80" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#5f5f5c" >stack</text>
+<rect x="16.5" y="96.5" width="57" height="32" fill="none" stroke="#7a7a76"/>
+<text x="44.9" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">nuxt</text>
+<rect x="72.3" y="96.5" width="50" height="32" fill="none" stroke="#7a7a76"/>
+<text x="97.1" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">vue</text>
+<rect x="120.9" y="96.5" width="100" height="32" fill="#101010" stroke="#101010"/>
+<text x="170.9" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f4f2" text-anchor="middle">typescript</text>
+<rect x="219.9" y="96.5" width="86" height="32" fill="none" stroke="#7a7a76"/>
+<text x="262.7" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">tailwind</text>
+<rect x="304.5" y="96.5" width="71" height="32" fill="none" stroke="#7a7a76"/>
+<text x="340.1" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">nestjs</text>
+<rect x="374.7" y="96.5" width="86" height="32" fill="none" stroke="#7a7a76"/>
+<text x="417.5" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">postgres</text>
+<rect x="459.3" y="96.5" width="71" height="32" fill="none" stroke="#7a7a76"/>
+<text x="494.9" y="116" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" text-anchor="middle">docker</text>
+<rect y="148" width="720" height="1" fill="#cfcfcb"/>
+<text x="16" y="180" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#5f5f5c" >now</text>
+<circle cx="19" cy="204" r="3" fill="#c22b22"/>
+<text x="32" y="208" font-family="'Geist Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#353533" >building <tspan fill="#5f5f5c">→</tspan> <tspan fill="#c22b22">mote · local-first music visualizer</tspan></text>
+</svg>
